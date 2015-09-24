@@ -1,0 +1,3 @@
+[{"pk": 1, "model": "showbase.podotchet", "fields": {"comment": "asdfsdf", "inv_number": "32434", "list_t": "1", "price": "334", "author": 1, "person": "dsfadsf", "place": "asdfsdf", "name_el": "werwer", "date_now": "2014-09-15", "date_inv": "2014-09-09", "inv": true}},
+ {"pk": 2, "model": "showbase.podotchet", "fields": {"comment": "asdfasdf", "inv_number": "werqwer", "list_t": "1", "price": "1232", "author": 1, "person": "sadfsdf", "place": "asdfa", "name_el": "qewrqwer", "date_now": "2014-09-15", "date_inv": "2014-09-03", "inv": true}}
+]
